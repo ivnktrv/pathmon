@@ -21,7 +21,7 @@ __PathMon__ - программа типо __traceroute__
     "mod": 0 <- если мод 0, то результат выводиться ввиде таблицы. Если мод 1, то выводиться шаг и ip узла.
 }
 ```
-Также для программы надо установить нужные модули. Для этого запустите **`pathmon-install-needs-modules.bat`**, если вы на windows, или **`pathmon-install-needs-modules`**, если вы на linux. Будут установлены следующие модули:
+Также для программы надо установить нужные модули. Для этого запустите **`pathmon-install-needs-modules.bat`**, если вы на windows, или **`pathmon-install-needs-modules.sh`**, если вы на linux. Будут установлены следующие модули:
 - **prettytable**
 - **scapy**
 - **requests**
