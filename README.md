@@ -22,7 +22,14 @@ __PathMon__ - программа типо __traceroute__
 }
 ```
 Также для программы надо установить нужные модули. Для этого запустите **`pathmon-install-needs-modules.bat`**, если вы на windows, или **`pathmon-install-needs-modules.sh`**, если вы на linux. Будут установлены следующие модули:
+
 - **prettytable**
 - **scapy**
 - **requests**
 - **folium**
+
+***
+
+### Хотите внести свой вклад в проект? - читайте [CONTRIBUTING.md](CONTRIBUTING.md)
+
+***
